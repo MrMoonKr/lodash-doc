@@ -1,3 +1,11 @@
+# Fork Notice
+신입 트레이닝 또는 학생들 교육용으로 포크하였습니다.  
+Javascript 개발 환경 및 Node 기반 개발 환경 연습용입니다.
+1. Node
+2. Visual Studio Code
+3. Javascript
+4. JSDoc
+
 # lodash
 
 [Site](https://lodash.com/) |
